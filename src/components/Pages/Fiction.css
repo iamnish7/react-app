@@ -1,0 +1,55 @@
+.fb1 {
+  padding: 20px;
+  width: 100%;
+  color: white;
+
+  background-color: rgb(217, 173, 104);
+}
+
+.fb1 h1 {
+  margin-right: 20px;
+  margin-left: 20px;
+  text-justify: distribute;
+}
+.fb1 p {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: large;
+  margin-bottom: 20px;
+}
+.fb1 h2 {
+  margin-left: 20px;
+}
+.fb2 {
+  padding: 20px;
+
+  color: black;
+  background: rgb(0, 255, 251);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.fb2 h1 {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  text-justify: distribute;
+}
+.fb2 h2 {
+  margin-left: 20px;
+}
+.fb2 p {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: large;
+  margin-bottom: 20px;
+}
+.Fbutton {
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: black;
+  background: rgb(189, 188, 188);
+  border-radius: 10px;
+}

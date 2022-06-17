@@ -1,0 +1,24 @@
+.thrill {
+  padding: 20px;
+  background-color: rgb(255, 80, 80);
+  color: white;
+}
+
+.thrill p {
+  margin-left: 20px;
+  font-size: large;
+}
+.thrill h1 {
+  margin-left: 20px;
+  font-weight: bolder;
+}
+.thrill h2 {
+  margin-left: 20px;
+  font-size: larger;
+}
+.thbtn {
+  border-radius: 10px;
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-left: 20px;
+}

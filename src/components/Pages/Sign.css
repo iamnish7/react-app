@@ -1,0 +1,60 @@
+.signuser {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 14px;
+  background: rgb(197, 111, 255);
+  border-radius: 20px;
+  box-shadow: 5px 20px 50px #000;
+
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: 100px;
+}
+.label1 {
+  margin-right: 20px;
+  margin-bottom: 5px;
+  font-size: larger;
+  color: white;
+}
+.signuser input {
+  margin-bottom: 20px;
+  font-size: larger;
+  border-radius: 5px;
+  width: 20%;
+}
+
+input::placeholder {
+  font-size: 12px;
+  text-align: center;
+  padding: 20px;
+  transition: transform 0.9s;
+}
+.label2 {
+  margin-bottom: 5px;
+  font-size: larger;
+  color: white;
+}
+.label3 {
+  margin-bottom: 5px;
+  font-size: larger;
+  color: white;
+}
+.btn {
+  border-radius: 10px;
+  font-size: larger;
+  background: whitesmoke;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: #de8cf2;
+  align-items: center;
+}
+
+.btn:hover {
+  background: rgb(167, 81, 214);
+  transform: scale(1.1);
+  font-weight: bolder;
+}
+input:hover {
+  transform: scale(1.1);
+}

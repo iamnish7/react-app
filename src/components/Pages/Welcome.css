@@ -1,0 +1,40 @@
+.welcome {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  z-index: 100;
+  background: rgb(197, 111, 255);
+
+  color: white;
+}
+.welcome > header > p {
+  margin-right: 7rem;
+  font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.welcome main {
+  margin-left: 50px;
+}
+
+.welcome a {
+  color: white;
+  margin-left: 5rem;
+  font-size: medium;
+}
+
+.welcome a:hover,
+.welcome a:active {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  border-bottom: 4px solid rgb(255, 255, 255);
+}
+.welcome > main > h1 {
+  font-weight: bolder;
+  margin-left: 600px;
+  margin-bottom: 50px;
+}
+.welcome > main > h2 {
+  margin-top: 20px;
+}

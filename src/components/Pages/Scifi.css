@@ -1,0 +1,27 @@
+.sfi {
+  background-color: rgb(211, 59, 112);
+  padding: 20px;
+  color: white;
+}
+.sfi p {
+  font-size: larger;
+}
+.sfi1 {
+  background-color: rgb(164, 149, 235);
+  padding: 20px;
+  color: white;
+}
+.sfi1 p {
+  font-size: larger;
+}
+
+.Sbtn {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 2rem;
+  border-radius: 10%;
+  background-color: rgb(131, 121, 120);
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}

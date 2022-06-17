@@ -1,0 +1,16 @@
+.romantic {
+  padding: 20px;
+  background-color: deeppink;
+  color: white;
+}
+.romantic1 {
+  padding: 20px;
+  background-color: blanchedalmond;
+  color: black;
+}
+.Rbtn {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 2rem;
+  border-radius: 10px;
+}
