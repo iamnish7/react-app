@@ -27,7 +27,7 @@
 input::placeholder {
   font-size: 12px;
   text-align: center;
-  padding: 20px;
+  
   transition: transform 0.9s;
 }
 .label2 {
