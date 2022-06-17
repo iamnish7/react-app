@@ -7,7 +7,7 @@ const Welcome = () => {
     <div className="welcome">
       <main>
         <h2>Welcome User</h2>
-        <h1>Book Shelf</h1>
+        
       </main>
       <header>
         <p>Hey You need to Sign in to use this page. It's very easy!!</p>
